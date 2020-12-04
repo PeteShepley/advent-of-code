@@ -1,0 +1,7 @@
+.idea/
+dist/
+build/
+target/
+
+node_modules/
+
