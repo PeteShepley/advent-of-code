@@ -8,23 +8,23 @@ I have been keeping to the same language/technology for each day. Here is a list
 - Day 03: Python
 - Day 04: Ruby
 - Day 05: Kotlin
-- Day 06:
-- Day 07:
-- Day 08:
-- Day 09:
-- Day 10:
-- Day 11:
-- Day 12:
-- Day 13:
-- Day 14:
-- Day 15:
-- Day 16:
-- Day 17:
-- Day 18:
-- Day 19:
-- Day 20:
-- Day 21:
-- Day 22:
-- Day 23:
-- Day 24:
-- Day 25:
+- Day 06: TypeScript
+- Day 07: C#
+- Day 08: Go
+- Day 09: Rust
+- Day 10: C
+- Day 11: Lua
+- Day 12: Clojure
+- Day 13: Pascal
+- Day 14: JavaScript
+- Day 15: Java
+- Day 16: Python
+- Day 17: Ruby
+- Day 18: Kotlin
+- Day 19: TypeScript
+- Day 20: C#
+- Day 21: Go
+- Day 22: Rust
+- Day 23: C
+- Day 24: Lua
+- Day 25: Clojure
