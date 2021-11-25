@@ -11,7 +11,7 @@ I have been keeping to the same language/technology for each day. Here is a list
 - Day 06: TypeScript
 - Day 07: C#
 - Day 08: Go
-- Day 09: Rust
+- Day 09: Swift
 - Day 10: C
 - Day 11: Lua
 - Day 12: Pascal
