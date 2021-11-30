@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="DEC12.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="19" Y="14"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="calculator.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Calculator"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="8" Y="11"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="13" HistoryIndex="12">
+      <Position1>
+        <Filename Value="DEC12.lpr"/>
+        <Caret Line="9" Column="34"/>
+      </Position1>
+      <Position2>
+        <Filename Value="DEC12.lpr"/>
+        <Caret Line="13" Column="22"/>
+      </Position2>
+      <Position3>
+        <Filename Value="calculator.pas"/>
+        <Caret Line="6" Column="28"/>
+      </Position3>
+      <Position4>
+        <Filename Value="calculator.pas"/>
+        <Caret Line="5"/>
+      </Position4>
+      <Position5>
+        <Filename Value="calculator.pas"/>
+        <Caret Line="10"/>
+      </Position5>
+      <Position6>
+        <Filename Value="DEC12.lpr"/>
+        <Caret Line="14" Column="22"/>
+      </Position6>
+      <Position7>
+        <Filename Value="calculator.pas"/>
+        <Caret Line="8" Column="12"/>
+      </Position7>
+      <Position8>
+        <Filename Value="calculator.pas"/>
+        <Caret Line="5"/>
+      </Position8>
+      <Position9>
+        <Filename Value="DEC12.lpr"/>
+        <Caret Line="13" Column="17"/>
+      </Position9>
+      <Position10>
+        <Filename Value="calculator.pas"/>
+        <Caret Line="6"/>
+      </Position10>
+      <Position11>
+        <Filename Value="calculator.pas"/>
+        <Caret Line="11" Column="13"/>
+      </Position11>
+      <Position12>
+        <Filename Value="DEC12.lpr"/>
+        <Caret Line="14" Column="16"/>
+      </Position12>
+      <Position13>
+        <Filename Value="DEC12.lpr"/>
+        <Caret Line="10" Column="22"/>
+      </Position13>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

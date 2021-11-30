@@ -8,3 +8,5 @@ node_modules/
 
 obj/
 bin/
+
+cmake-build-debug/
